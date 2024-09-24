@@ -60,6 +60,12 @@ The graph shows us that the "female" category who took the "drug" subcategory of
 ### Numerical Descriptive Results
 
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
+```{r}
+table1 <- xtabs(~infected + treatment, data=female)
+rowPerc(table1)
+colPerc(table1)
+```
+The females got aids more with the drug than the placebo. The drug is about 59% with aids while the placebo has 41% with aids.
 
 ## Inferential Results
 
