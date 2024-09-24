@@ -80,4 +80,6 @@ In the statistical test, the probability that something is is going on is 0.0000
 
 # Discussion and Conclusion
 
-<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+<!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variables causes the other, or whether they perhaps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+First I filtered the category females from the gender category to only get results from the females. Then with the new table I ran tigerstats barplot and the ggplot way. It showed a visual representation of more females having aids with the drug treatment. Next I ran a numerical test seeing the percentages of aids with drug vs placebo. It gave us a 59% chance with the drug, much higher than the 41% of the placebo. Then I ran an inferential test with the Chi-Squared test and the Fisher test. It showed the relation to the drug and getting aids with definitive matter that if you take the drug as a female, you have a 54% chance of being infected. 
